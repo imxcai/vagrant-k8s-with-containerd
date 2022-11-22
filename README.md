@@ -1,5 +1,5 @@
 # Deploy Kubernetes Cluster use Vagrant
----
+
 > Quickly deploy K8S cluster for mainland China.
 
 package default version:
@@ -10,4 +10,5 @@ package default version:
 - cni-plugis: v1.1.1
 
 you can change the version by modifying environment variables in `scripts/common.sh`.
+
 **Note: Pay attention to compatibility when modifying the version.**
